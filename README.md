@@ -104,7 +104,7 @@ the board will be printed as follows, you can use emojis instead of characters
 if you want.  Bonus points for coloring the squares so they're easier to read.
 
 ```
-    0 1 2 3 4 5 6 7 8 9
+    0  1  2  3  4  5  6
   +---------------------+
 0 | _  1  B  1  #  #  # |
 1 | _  1  1  1  2  3  2 |
